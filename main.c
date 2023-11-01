@@ -296,10 +296,10 @@ void log_in (){
 
 int main()
 {
-    appendNode("ahmed" ,1234 ,1 ); //user1
-    appendNode("mohamed" ,1234 ,2  ); //user2
-    appendNode("mosad" ,1234 ,3 ); //user3
-    appendNode("body" ,1234 ,4 ); //user4
+    appendNode("nada" ,1234 ,1 ); //user1
+    appendNode("menna" ,1234 ,2  ); //user2
+    appendNode("hana" ,1234 ,3 ); //user3
+    appendNode("yomna" ,1234 ,4 ); //user4
 
     log_in();
 }
